@@ -1,0 +1,6 @@
+{
+  "name": "resolve-symlink",
+  "description": "Follow a trail of symlinks",
+  "version": "1.0.0",
+  "main": "resolveSymlink.js"
+}
